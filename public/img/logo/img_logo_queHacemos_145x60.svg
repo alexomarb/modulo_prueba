@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="145"
+   height="60"
+   viewBox="0 0 38.364654 15.875021"
+   version="1.1"
+   id="svg3896"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="img_logo_queHacemos_145x60.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3898"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="5.8152778"
+     inkscape:cx="68.784332"
+     inkscape:cy="18.227848"
+     inkscape:window-width="1600"
+     inkscape:window-height="831"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3893" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.775772"
+       id="path4327"
+       cx="6.3517652"
+       cy="6.4290528"
+       rx="5.1781664"
+       ry="5.378541" />
+    <path
+       style="fill:#ffff00;stroke:#ab4d1f;stroke-width:0.745988;stroke-opacity:1"
+       d="m 3.8115633,2.9084767 0.094617,6.5560957 -0.063091,0.1826795 z"
+       id="path4391" />
+    <path
+       style="fill:#ffff00;stroke:#ab4d1f;stroke-width:0.671639;stroke-opacity:1"
+       d="M 4.9887924,3.5264141 5.0892203,8.5329895 5.022263,8.6724925 Z"
+       id="path4391-3" />
+    <path
+       style="fill:#ffff00;stroke:#ab4d1f;stroke-width:0.745988;stroke-opacity:1"
+       d="M 6.14642,2.7415653 6.241037,9.2976611 6.177946,9.4803406 Z"
+       id="path4391-6" />
+    <path
+       style="fill:#ffff00;stroke:#ab4d1f;stroke-width:0.671639;stroke-opacity:1"
+       d="M 7.4783206,3.5111338 7.5787485,8.517709 7.5117912,8.657212 Z"
+       id="path4391-3-7" />
+    <path
+       style="fill:#ffff00;stroke:#ab4d1f;stroke-width:0.745988;stroke-opacity:1"
+       d="m 8.9033995,3.0018207 0.094617,6.5560958 -0.063091,0.1826794 z"
+       id="path4391-5" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.75271;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 9.0127283,10.53549 3.3360137,3.957883 z"
+       id="path5045" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="8.635747"
+       y="7.8050575"
+       id="text5049"><tspan
+         sodipodi:role="line"
+         id="tspan5047"
+         style="stroke-width:0;stroke-dasharray:none"
+         x="8.635747"
+         y="7.8050575" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.1718px;fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="12.744926"
+       y="10.924472"
+       id="text5053"
+       transform="scale(0.99312562,1.006922)"><tspan
+         sodipodi:role="line"
+         id="tspan5051"
+         style="stroke-width:0"
+         x="12.744926"
+         y="10.924472"> Hacemos</tspan></text>
+  </g>
+</svg>
