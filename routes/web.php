@@ -37,7 +37,7 @@ Route::middleware([
         return view('dashboard');
     })->name('dashboard')
         ->breadcrumbs(fn (Trail $trail) =>
-            $trail->push('welcome1', route('dashboard'))
+            $trail->push('Panel de Control', route('dashboard'))
     );
 });
 

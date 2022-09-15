@@ -29,7 +29,7 @@
                 <div class="flex-1">
                     @livewire('navigation-menu')
                     <header class="flex items-center p-1 bg-white shadow ">
-                        <div class="sm:px-6">
+                        <div class="">
                                 <x-nav-link/>
                         </div>
 
